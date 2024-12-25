@@ -1,4 +1,4 @@
-<div id="header" align="center">
+![image](https://github.com/user-attachments/assets/f7cdce71-2b3a-4f86-b256-0f729f1c09a6)<div id="header" align="center">
   <h1>
     Hey there!!, I'm Donald
   </h1>
@@ -26,15 +26,15 @@ Hi, I’m Donald—let’s create something amazing together!
   <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
   <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
-  <img src="" alt="Framer Motion" width="40"/>
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40hugo-humbert%2Fexploring-shadcn-ui-a-comprehensive-toolkit-for-modern-web-development-9940244f160c&psig=AOvVaw0gnzOhTxtGQYU1sYQmKM2a&ust=1735233095779000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjHk_etxIoDFQAAAAAdAAAAABAE" alt="ShadCN" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" />
+  <img src='https://github.com/user-attachments/assets/8b56966a-e41c-47da-8687-ba9acbd9040e' alt='Shadcn' />
   <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode"/>
   <img src="https://img.icons8.com/plasticine/100/react.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/>
   <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js"/>
   <img src="https://www.sanity.io/static/images/logo.svg" alt="Sanity Studio" width="40"/>
-  <img src="https://img.icons8.com/color/48/tailwind-css.png" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />     
   <img src="https://img.icons8.com/color/48/redux.png" alt="Redux"/>
 </div>
 
