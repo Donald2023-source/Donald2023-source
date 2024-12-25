@@ -34,7 +34,7 @@ Hi, I’m Donald—let’s create something amazing together!
   <img src="https://img.icons8.com/color/48/typescript.png" alt="TypeScript"/>
   <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js"/>
   <img src="https://www.sanity.io/static/images/logo.svg" alt="Sanity Studio" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />     
+  <img width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />     
   <img src="https://img.icons8.com/color/48/redux.png" alt="Redux"/>
 </div>
 
