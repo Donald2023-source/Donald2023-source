@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f7cdce71-2b3a-4f86-b256-0f729f1c09a6)<div id="header" align="center">
+<div id="header" align="center">
   <h1>
     Hey there!!, I'm Donald
   </h1>
