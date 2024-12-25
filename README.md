@@ -2,12 +2,11 @@
   <h1>
     Hey there!!, I'm Donald
   </h1>
-  <img src="https://komarev.com/ghpvc/?username=Desmond-fon&style=flat-square&color=blue" alt=""/>
 </div>
 
 ---
 
-I am a proficient and seasoned frontend developer with a passion for crafting visually appealing and user-centric websites and web applications. With expertise in HTML, CSS, and JavaScript, I specialize in building responsive, cross-browser compatible designs that are also optimized for search engines. My experience spans a range of frontend frameworks and libraries, including React and Vue, and I am committed to staying current with the latest technologies and industry trends. Known for my strong problem-solving abilities, keen attention to detail, and collaborative mindset, I bring significant value to any team I join.
+I am a proficient and seasoned frontend developer with a passion for crafting visually appealing and user-centric websites and web applications. With expertise in HTML, CSS, and JavaScript, I specialize in building responsive, cross-browser compatible designs that are also optimized for search engines. My experience spans a range of frontend frameworks and libraries, including React, and I am committed to staying current with the latest technologies and industry trends. Known for my strong problem-solving abilities, keen attention to detail, and collaborative mindset, I bring significant value to any team I join.
 
 Hi, I’m Donald—let’s create something amazing together!
 
