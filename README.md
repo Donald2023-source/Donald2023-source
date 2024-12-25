@@ -26,8 +26,8 @@ Hi, I’m Donald—let’s create something amazing together!
   <img src="https://img.icons8.com/color/48/figma.png" alt="Figma"/>
   <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" />
-  <img src='https://github.com/user-attachments/assets/8b56966a-e41c-47da-8687-ba9acbd9040e' alt='Shadcn' />
+  <img width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" />
+  <img width='40' src='https://github.com/user-attachments/assets/8b56966a-e41c-47da-8687-ba9acbd9040e' alt='Shadcn' />
   <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VSCode"/>
   <img src="https://img.icons8.com/plasticine/100/react.png" alt="React"/>
