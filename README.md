@@ -29,22 +29,22 @@ Hi, I’m Donald—let’s create something amazing together!
 <div>
  ## Languages and Tools
 
-- ![HTML5](https://img.icons8.com/color/48/html-5.png) **HTML5**  
-- ![CSS3](https://img.icons8.com/color/48/css3.png) **CSS3**  
-- ![NPM](https://img.icons8.com/color/48/npm.png) **NPM**  
-- ![Figma](https://img.icons8.com/color/48/figma.png) **Figma**  
-- ![JavaScript](https://img.icons8.com/color/48/javascript.png) **JavaScript**  
+- ![](https://img.icons8.com/color/48/html-5.png) **HTML5**  
+- ![](https://img.icons8.com/color/48/css3.png) **CSS3**  
+- ![](https://img.icons8.com/color/48/npm.png) **NPM**  
+- ![](https://img.icons8.com/color/48/figma.png) **Figma**  
+- ![](https://img.icons8.com/color/48/javascript.png) **JavaScript**  
 - <img src="https://img.icons8.com/color/48/firebase.png" alt="Firebase" width="40"/> **Firebase**  
 - <img src="https://www.svgrepo.com/show/354259/framer.svg" alt="Framer Motion" width="40"/> **Framer Motion**  
 - <img src="https://shadcn.dev/logo.svg" alt="ShadCN" width="40"/> **ShadCN**  
-- ![Git](https://img.icons8.com/color/48/git.png) **Git**  
-- ![VSCode](https://img.icons8.com/color/48/visual-studio-code-2019.png) **VSCode**  
-- ![React](https://img.icons8.com/plasticine/100/react.png) **React**  
-- ![TypeScript](https://img.icons8.com/color/48/typescript.png) **TypeScript**  
-- ![Next.js](https://img.icons8.com/color/48/nextjs.png) **Next.js**  
+- ![](https://img.icons8.com/color/48/git.png) **Git**  
+- ![](https://img.icons8.com/color/48/visual-studio-code-2019.png) **VSCode**  
+- ![](https://img.icons8.com/plasticine/100/react.png) **React**  
+- ![](https://img.icons8.com/color/48/typescript.png) **TypeScript**  
+- ![](https://img.icons8.com/color/48/nextjs.png) **Next.js**  
 - <img src="https://www.sanity.io/static/images/logo.svg" alt="Sanity Studio" width="40"/> **Sanity Studio**  
 - <img src="https://img.icons8.com/color/48/tailwind-css.png" alt="Tailwind CSS"/> **Tailwind CSS**  
-- ![Redux](https://img.icons8.com/color/48/redux.png) **Redux**  
+- ![](https://img.icons8.com/color/48/redux.png) **Redux**  
 
 </div>
 
